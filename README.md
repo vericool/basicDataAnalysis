@@ -1,2 +1,0 @@
-# basicDataAnalysis
-basic data analysis
